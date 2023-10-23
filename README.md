@@ -18,7 +18,7 @@ This is a template for creating applications using Next.js 13 (app directory),Ne
 ### git clone the template
 
 ```bash
-git clone https://github.com/Redoxahmii/somethingtemplate
+git clone https://github.com/Redoxahmii/NextJS-NextUI-Clerk-template
 ```
 
 ### Install dependencies
